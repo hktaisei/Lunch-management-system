@@ -8,7 +8,6 @@ public class LunchManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LunchManagementSystemApplication.class, args);
-		//dev_main
 	}
 
 }
